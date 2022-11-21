@@ -19,4 +19,4 @@
 </p>
 
 ---
-<h6 align="left">git.yquan162.dev (my g~</h6>
+<a href="https://git.yquan162.dev/">Link to my gitea!</a>
