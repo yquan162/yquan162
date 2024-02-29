@@ -1,5 +1,5 @@
 **My Stats**
-- Uni student at Texas A&M.
+- Electrical Systems Engineering at Texas A&M.
 ---
 </p>
  <p align="center">
