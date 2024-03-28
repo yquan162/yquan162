@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yquan162&count_private=true&show_icons=true&line_height=20&show_icons=true&theme=dracula" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yquan162&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" alt="labgs" />
 </p>
-
-</p>
-<p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=yquan162&theme=rogue" align="center" alt="Github Activity" />
-</p>
-
 </p>
 
 ---
