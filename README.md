@@ -14,9 +14,6 @@
 </p>
 
 </p>
-<p align="center">
-    <img src="https://lanyard.cnrad.dev/api/325484575042043906?idleMessage=Possibly%20being%20sus" alt="Discord Status">
-</p>
 
 ---
 <h6 align="left"></h6>
